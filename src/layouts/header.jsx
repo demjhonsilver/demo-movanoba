@@ -1,7 +1,7 @@
 export const Header = () => {
     return (
       <div>
-               <h3>This is a sample animations for Movanova</h3>
+               <h3>Sample animations for Movanoba</h3>
   
                 <a style={{marginRight: '20px'}} href="https://github.com/demjhonsilver/movanoba" target="_blank" rel="noopener noreferrer">
                  GitHub Library package

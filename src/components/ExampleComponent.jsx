@@ -8,7 +8,7 @@ export const ExampleComponent = () => {
 
   return (
     <div>
-<h3>This is sample animations for Movanova</h3>
+
 
 <div className="mova-wrap">
         <div className="monoContainer">

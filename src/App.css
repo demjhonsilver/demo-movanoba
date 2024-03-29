@@ -1,0 +1,117 @@
+
+.mova-wrap {
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  overflow-y: hidden;
+
+  overflow-x: hidden;
+
+  width: auto;
+  max-width: 1140px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  background-color: silver;
+
+}
+
+.hidden {
+
+  display: none;
+
+}
+
+
+
+
+.monoContainer {
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+
+
+.monoLand {
+
+  width: 999px; 
+
+  height: auto;
+
+  max-height: 670px;
+
+  display: flex;
+
+  margin: 10px;
+
+}
+
+
+
+
+.duoContainer {
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+
+
+
+
+.duoLand {
+
+  width: auto;
+
+  height: auto;
+
+  max-height: 670px; 
+
+  display: flex;
+
+  margin: 10px;
+
+
+}
+
+
+
+
+
+.trioContainer {
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+
+
+
+
+.trioLand {
+
+  width: auto;
+
+
+  height: auto;
+
+  max-height: 670px; 
+
+  display: flex;
+
+
+  display: flex;
+
+  margin: 10px;
+
+}
